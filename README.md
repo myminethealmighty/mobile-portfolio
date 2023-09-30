@@ -1,10 +1,4 @@
-<a name="readme-top"></a>
 
-<div align="center">
-  <p>Logo</p>
-  <br/>
-  <br/>
-</div>
 
 # Microverse Week1 Hello Microverse
 
